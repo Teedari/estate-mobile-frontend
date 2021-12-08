@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:uenr_estate/controllers/authentication.dart';
 
-import 'package:uenr_estate/controllers/notice_controller.dart';
 import 'package:uenr_estate/controllers/user_controller.dart';
-import 'package:uenr_estate/helpers/local_data/shared_helper.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
